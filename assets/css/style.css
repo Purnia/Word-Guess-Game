@@ -1,0 +1,30 @@
+body{
+    background-image: url(../images/442086.jpg);
+    font-family: 'Anton', sans-serif;
+}
+
+.container{
+   text-align: center;
+   
+   margin: 15px auto;
+   height: 100px;
+   width: 80%;
+   font-size: 50px;
+}
+
+.underscores{
+    border: 3px solid black;
+
+}
+
+.lettersguessed{
+    border: 3px solid black;
+    height: 200px;
+}
+
+.wins{
+    border: 3px solid black;
+    height: 100px;
+    margin: 50px;
+
+}
